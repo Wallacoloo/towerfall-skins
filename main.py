@@ -4,8 +4,6 @@ import os, shutil, xml.etree.ElementTree
 
 from PIL import Image
 
-#default_atlas_dir = "/home/colin/.local/share/Steam/steamapps/common/TowerFall/Content/Atlas"
-#default_atlas_dir = "/home/colin/.local/share/Steam/steamapps/common/TowerFall/DarkWorldContent/Atlas"
 default_towerfall_dir = "/home/colin/.local/share/Steam/steamapps/common/TowerFall"
 
 class Atlas(object):
